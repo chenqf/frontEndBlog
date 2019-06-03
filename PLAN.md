@@ -39,7 +39,7 @@
 ## ES6系列
 
 + ES6中的let和const
-+ ES6中的结构赋值
++ ES6中的解构赋值
 + ES6中的箭头函数
 + ES6中的迭代器和for of
 + ES6中的Set 和 Map
