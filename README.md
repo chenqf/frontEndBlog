@@ -13,7 +13,7 @@
 
 
 
-**[写作计划(暂定)]()**
+**[写作计划(暂定)](https://github.com/chenqf/frontEndBlog/blob/master/PLAN.md)**
 
 ---
 
@@ -21,7 +21,7 @@
 
 ### JS 进阶系列
 
-1. [高阶函数之美-记忆函数]()
+1. [高阶函数之美-记忆函数](https://github.com/chenqf/frontEndBlog/issues/1)
 
 
 
