@@ -38,7 +38,7 @@
 
 ## ES6系列
 
-+ ES6中的let和const
++ [ES6中的let和const](https://github.com/chenqf/frontEndBlog/issues/2)
 + ES6中的解构赋值
 + ES6中的箭头函数
 + ES6中的迭代器和for of

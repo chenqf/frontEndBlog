@@ -21,10 +21,12 @@
 
 ### JS 进阶系列
 
-1. [高阶函数之美-记忆函数](https://github.com/chenqf/frontEndBlog/issues/1)
+1. [高阶函数之美-函数记忆](https://github.com/chenqf/frontEndBlog/issues/1)
 
 
+### ES6系列
 
+1. [ES6中的let和const](https://github.com/chenqf/frontEndBlog/issues/2)
 
 
 
