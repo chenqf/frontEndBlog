@@ -28,8 +28,9 @@
 
 1. [ES6中的let和const](https://github.com/chenqf/frontEndBlog/issues/2)
 
+### 前端杂谈
 
-
+1. [深入理解立即执行函数](https://github.com/chenqf/frontEndBlog/issues/3)
 
 
 
