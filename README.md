@@ -27,6 +27,7 @@
 ### ES6系列
 
 1. [ES6中的let和const](https://github.com/chenqf/frontEndBlog/issues/2)
+2. [ES6中的箭头函数](https://github.com/chenqf/frontEndBlog/issues/4)
 
 ### 前端杂谈
 
