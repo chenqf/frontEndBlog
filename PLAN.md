@@ -55,7 +55,7 @@
 ## 前端杂谈系列
 
 + [深入理解立即执行函数](https://github.com/chenqf/frontEndBlog/issues/3)
-+ 数组乱序
++ [数组乱序](https://github.com/chenqf/frontEndBlog/issues/5)
 + 九种跨域方式实现原理
 + 从URL输入到页面展现到底发生什么
 + 前端图片水印实现

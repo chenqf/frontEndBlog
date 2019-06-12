@@ -32,6 +32,7 @@
 ### 前端杂谈
 
 1. [深入理解立即执行函数](https://github.com/chenqf/frontEndBlog/issues/3)
+2. [数组乱序](https://github.com/chenqf/frontEndBlog/issues/5)
 
 
 
