@@ -40,7 +40,7 @@
 
 + [ES6中的let和const](https://github.com/chenqf/frontEndBlog/issues/2)
 + [ES6中的箭头函数](https://github.com/chenqf/frontEndBlog/issues/4)
-+ ES6中的解构赋值
++ [ES6中的解构赋值](https://github.com/chenqf/frontEndBlog/issues/6)
 + ES6中的迭代器和for of
 + ES6中的Set 和 Map
 + ES6中的Proxy
