@@ -29,6 +29,7 @@
 1. [ES6中的let和const](https://github.com/chenqf/frontEndBlog/issues/2)
 2. [ES6中的箭头函数](https://github.com/chenqf/frontEndBlog/issues/4)
 3. [ES6中的解构赋值](https://github.com/chenqf/frontEndBlog/issues/6)
+4. [ES6中的Promise](https://github.com/chenqf/frontEndBlog/issues/7)
 
 ### 前端杂谈
 
