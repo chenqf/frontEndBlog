@@ -22,7 +22,7 @@
 ### JS 进阶系列
 
 1. [高阶函数之美-函数记忆](https://github.com/chenqf/frontEndBlog/issues/1)
-
+2. [深入浅出-JS中的内存管理](https://github.com/chenqf/frontEndBlog/issues/8)
 
 ### ES6系列
 
