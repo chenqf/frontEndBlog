@@ -1,7 +1,5 @@
 # 个人博客
 
-
-
 每周 1 - 3 篇文章，预计写五个系列，随机更新：
 
 + JS进阶系列
@@ -10,14 +8,13 @@
 + Vue系列
 + React系列
 
-
-
-
 **[写作计划(暂定)](https://github.com/chenqf/frontEndBlog/blob/master/PLAN.md)**
 
 ---
 
+### 专栏
 
++ [掘金主页](https://juejin.im/user/5c6e666be51d457fd033e984/posts)
 
 ### JS 进阶系列
 
