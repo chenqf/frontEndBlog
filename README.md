@@ -8,10 +8,6 @@
 + Vue系列
 + React系列
 
-**[写作计划(暂定)](https://github.com/chenqf/frontEndBlog/blob/master/PLAN.md)**
-
----
-
 ### 专栏
 
 + [掘金主页](https://juejin.im/user/5c6e666be51d457fd033e984/posts)
@@ -34,6 +30,9 @@
 1. [深入理解立即执行函数](https://github.com/chenqf/frontEndBlog/issues/3)
 2. [数组乱序](https://github.com/chenqf/frontEndBlog/issues/5)
 
+### 后续文章
+
+**[写作计划(暂定)](https://github.com/chenqf/frontEndBlog/blob/master/PLAN.md)**
 
 
 ### 勘误及提问
