@@ -8,6 +8,7 @@
 
 + [高阶函数之美-函数记忆](https://github.com/chenqf/frontEndBlog/issues/1)
 + [深入浅出-JS中的内存管理](https://github.com/chenqf/frontEndBlog/issues/8)
++ [深入浅出-JS中的栈内存和堆内存](https://github.com/chenqf/frontEndBlog/issues/9)
 + 高阶函数之美-函数柯里化
 + 高阶函数之美-偏函数
 + 高阶函数之美-惰性函数
@@ -20,7 +21,6 @@
 + 面试必考-JS中的闭包
 + 面试必考-虚拟Dom原理
 + 面试必考-Diff算法
-+ 深入浅出-JS中的栈内存和堆内存
 + 深入浅出-浏览器渲染原理
 + 手撸代码-模拟实现一个Promise
 + 手撸代码-模拟实现call和apply
