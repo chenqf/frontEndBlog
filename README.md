@@ -15,9 +15,10 @@
 
 ### JS 进阶系列
 
-1. [高阶函数之美-函数记忆](https://github.com/chenqf/frontEndBlog/issues/1)
-2. [深入浅出-JS中的内存管理](https://github.com/chenqf/frontEndBlog/issues/8)
-3. [深入浅出-JS中的栈内存和堆内存](https://github.com/chenqf/frontEndBlog/issues/9)
++ [高阶函数之美-函数柯里化](https://github.com/chenqf/frontEndBlog/issues/10)
++ [高阶函数之美-函数记忆](https://github.com/chenqf/frontEndBlog/issues/1)
++ [深入浅出-JS中的内存管理](https://github.com/chenqf/frontEndBlog/issues/8)
++ [深入浅出-JS中的栈内存和堆内存](https://github.com/chenqf/frontEndBlog/issues/9)
 
 ### ES6系列
 

@@ -6,10 +6,10 @@
 
 ## JS 进阶系列
 
++ [高阶函数之美-函数柯里化](https://github.com/chenqf/frontEndBlog/issues/10)
 + [高阶函数之美-函数记忆](https://github.com/chenqf/frontEndBlog/issues/1)
 + [深入浅出-JS中的内存管理](https://github.com/chenqf/frontEndBlog/issues/8)
 + [深入浅出-JS中的栈内存和堆内存](https://github.com/chenqf/frontEndBlog/issues/9)
-+ 高阶函数之美-函数柯里化
 + 高阶函数之美-偏函数
 + 高阶函数之美-惰性函数
 + 高阶函数之美-函数组合
