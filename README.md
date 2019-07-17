@@ -9,7 +9,7 @@
 + Vue系列
 + React系列
 
-写作不易，如果喜欢或者有所启发，欢迎 Watch & Star ★
+写作不易，如果喜欢或者有所启发，欢迎 **Watch & Star ★**
 
 如果有疑问或者发现错误，可以在相应的 [issues](https://github.com/chenqf/frontEndBlog/issues) 进行提问或勘误。
 
