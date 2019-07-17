@@ -37,19 +37,25 @@
 
 **[写作计划(暂定)](https://github.com/chenqf/frontEndBlog/blob/master/PLAN.md)**
 
-
 ### 勘误及提问
 
 如果有疑问或者发现错误，可以在相应的 [issues](https://github.com/chenqf/frontEndBlog/issues) 进行提问或勘误。
 
-### 鼓励
+### 鼓励 && 订阅
 
-写作不易，如果喜欢或者有所启发，欢迎Watch & Star ★
+写作不易，如果喜欢或者有所启发，欢迎 `Watch` & `Star ★`
 
+### 公众号
+
+想在`微信`上订阅？
+
+> 欢迎关注微信公众号`【前端小黑屋】`，每周1-3篇精品优质文章推送，助你走上进阶之旅
+
+![](https://user-gold-cdn.xitu.io/2019/7/1/16bac295d25e37db?w=258&h=258&f=jpeg&s=27497)
 
 ### 捐助
 
-为什么要捐助？一篇好文章可以帮助你节省大量的时间，而你的时间是相当宝贵的。 
+为什么要捐助？一篇好文章可以帮助你节省大量的时间，而你的时间是相当宝贵的。
 
 向文章的作者提供小额捐助，可以鼓励作者写出更好的文章。
 
@@ -57,7 +63,3 @@
     <img width="180px" src="https://raw.githubusercontent.com/chenqf/frontEndBlog/master/wc.png"/>
     <img width="180px" src="https://raw.githubusercontent.com/chenqf/frontEndBlog/master/zhi.png"/>
 </div>
-
-
-
-
