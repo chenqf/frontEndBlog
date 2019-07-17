@@ -9,6 +9,8 @@
 + Vue系列
 + React系列
 
+如果有疑问或者发现错误，可以在相应的 [issues](https://github.com/chenqf/frontEndBlog/issues) 进行提问或勘误。
+
 ### 专栏
 
 + [掘金主页](https://juejin.im/user/5c6e666be51d457fd033e984/posts)
@@ -35,21 +37,15 @@
 
 ### 后续文章
 
-**[写作计划(暂定)](https://github.com/chenqf/frontEndBlog/blob/master/PLAN.md)**
-
-### 勘误及提问
-
-如果有疑问或者发现错误，可以在相应的 [issues](https://github.com/chenqf/frontEndBlog/issues) 进行提问或勘误。
++ **[写作计划(暂定)](https://github.com/chenqf/frontEndBlog/blob/master/PLAN.md)**
 
 ### 鼓励 && 订阅
 
-写作不易，如果喜欢或者有所启发，欢迎 <span style="background-color: #fff5f5;color: #ff502c;">Watch</span> & <span style="background-color: #fff5f5;color: #ff502c;">Star ★</span>
-
-### 公众号
+写作不易，如果喜欢或者有所启发，欢迎 Watch & Star ★
 
 想在`微信`上订阅？
 
-> 欢迎关注微信公众号<span style="background-color: #fff5f5;color: #ff502c;">【前端小黑屋】</span>，每周1-3篇精品优质文章推送，助你走上进阶之旅
+> 欢迎关注微信公众号【前端小黑屋】，每周1-3篇精品优质文章推送，助你走上进阶之旅
 
 ![](https://user-gold-cdn.xitu.io/2019/7/1/16bac295d25e37db?w=258&h=258&f=jpeg&s=27497)
 
