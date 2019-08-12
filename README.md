@@ -19,13 +19,13 @@
 
 ## JS 进阶系列
 
-1 [高阶函数之美-函数柯里化](https://github.com/chenqf/frontEndBlog/issues/10)
-2 [高阶函数之美-函数记忆](https://github.com/chenqf/frontEndBlog/issues/1)
-3 [高阶函数之美-函数组合](https://github.com/chenqf/frontEndBlog/issues/13)
-4 [深入浅出-JS中的内存管理](https://github.com/chenqf/frontEndBlog/issues/8)
-5 [深入浅出-JS中的栈内存和堆内存](https://github.com/chenqf/frontEndBlog/issues/9)
-6 [面试必考-单页路由解析与实现](https://github.com/chenqf/frontEndBlog/issues/11)
-7 [性能优化-如何处理图片加载失败](https://github.com/chenqf/frontEndBlog/issues/12)
+1. [高阶函数之美-函数柯里化](https://github.com/chenqf/frontEndBlog/issues/10)
+2. [高阶函数之美-函数记忆](https://github.com/chenqf/frontEndBlog/issues/1)
+3. [高阶函数之美-函数组合](https://github.com/chenqf/frontEndBlog/issues/13)
+4. [深入浅出-JS中的内存管理](https://github.com/chenqf/frontEndBlog/issues/8)
+5. [深入浅出-JS中的栈内存和堆内存](https://github.com/chenqf/frontEndBlog/issues/9)
+6. [面试必考-单页路由解析与实现](https://github.com/chenqf/frontEndBlog/issues/11)
+7. [性能优化-如何处理图片加载失败](https://github.com/chenqf/frontEndBlog/issues/12)
 
 ## ES6系列
 
