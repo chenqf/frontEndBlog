@@ -12,11 +12,11 @@
 + [深入浅出-JS中的栈内存和堆内存](https://github.com/chenqf/frontEndBlog/issues/9)
 + [面试必考-单页路由解析与实现](https://github.com/chenqf/frontEndBlog/issues/11)
 + [高阶函数之美-函数组合](https://github.com/chenqf/frontEndBlog/issues/13)
++ [面试必考-从线程角度来看EventLoop](https://github.com/chenqf/frontEndBlog/issues/14)
 + 高阶函数之美-偏函数
 + 高阶函数之美-惰性函数
 + 面试必考-防抖函数
 + 面试必考-节流函数
-+ 面试必考-从线程角度来看EventLoop
 + 面试必考-浅拷贝和深拷贝
 + 面试必考-JS中的闭包
 + 面试必考-虚拟Dom原理

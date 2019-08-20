@@ -26,6 +26,7 @@
 5. [深入浅出-JS中的栈内存和堆内存](https://github.com/chenqf/frontEndBlog/issues/9)
 6. [面试必考-单页路由解析与实现](https://github.com/chenqf/frontEndBlog/issues/11)
 7. [性能优化-如何处理图片加载失败](https://github.com/chenqf/frontEndBlog/issues/12)
+8. [面试必考-从线程角度来看EventLoop](https://github.com/chenqf/frontEndBlog/issues/14)
 
 ## ES6系列
 
