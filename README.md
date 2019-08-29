@@ -54,4 +54,4 @@
 
 > 同时欢迎加我好友，回复`加群`，拉你入群，和我一起学前端~
 
-![我的二维码](https://user-gold-cdn.xitu.io/2019/8/21/16cb2f7ddf918f64?w=268&h=268&f=png&s=44354)
+![我的二维码](https://raw.githubusercontent.com/chenqf/frontEndBlog/master/wo-sm.png)
