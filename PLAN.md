@@ -13,6 +13,7 @@
 + [面试必考-单页路由解析与实现](https://github.com/chenqf/frontEndBlog/issues/11)
 + [高阶函数之美-函数组合](https://github.com/chenqf/frontEndBlog/issues/13)
 + [面试必考-从线程角度来看EventLoop](https://github.com/chenqf/frontEndBlog/issues/14)
++ [性能优化-如何高性能的渲染十万条数据](https://github.com/chenqf/frontEndBlog/issues/15)
 + 高阶函数之美-偏函数
 + 高阶函数之美-惰性函数
 + 面试必考-防抖函数
@@ -25,7 +26,6 @@
 + 手撸代码-模拟实现一个Promise
 + 手撸代码-模拟实现call和apply
 + 手撸代码-模拟实现bind
-+ 性能优化-如何渲染几万条数据并不卡住界面
 + 性能优化-时间切片
 + 网络-彻底弄懂HTTP缓存机制及原理
 + 网络-前端需要了解的http与https
