@@ -1,14 +1,5 @@
 # 个人博客
 
-每周 1 - 3 篇文章，预计写五个系列，随机更新：
-
-+ JS进阶系列
-+ ES6系列
-+ 前端杂谈系列
-+ 小程序系列
-+ Vue系列
-+ React系列
-
 写作不易，如果喜欢或者有所启发，欢迎 **Watch & Star ★**
 
 如果有疑问或者发现错误，可以在相应的 [issues](https://github.com/chenqf/frontEndBlog/issues) 进行提问或勘误。
@@ -22,16 +13,17 @@
 1. [高阶函数之美-函数柯里化](https://github.com/chenqf/frontEndBlog/issues/10)
 2. [高阶函数之美-函数记忆](https://github.com/chenqf/frontEndBlog/issues/1)
 3. [高阶函数之美-函数组合](https://github.com/chenqf/frontEndBlog/issues/13)
-4. [深入浅出-JS中的内存管理](https://github.com/chenqf/frontEndBlog/issues/8)
-5. [深入浅出-JS中的栈内存和堆内存](https://github.com/chenqf/frontEndBlog/issues/9)
-6. [面试必考-单页路由解析与实现](https://github.com/chenqf/frontEndBlog/issues/11)
-7. [性能优化-如何处理图片加载失败](https://github.com/chenqf/frontEndBlog/issues/12)
-8. [面试必考-从线程角度来看EventLoop](https://github.com/chenqf/frontEndBlog/issues/14)
-9. [性能优化-如何高性能的渲染十万条数据(时间分片)](https://github.com/chenqf/frontEndBlog/issues/15)
-10. [性能优化-如何高性能的渲染十万条数据(虚拟列表)](https://github.com/chenqf/frontEndBlog/issues/16)
-11. [进阶布局-深度解析瀑布流布局](https://github.com/chenqf/frontEndBlog/issues/17)
-12. [模拟实现call和apply](https://github.com/chenqf/frontEndBlog/issues/20)
-13. [模拟实现bind](https://github.com/chenqf/frontEndBlog/issues/19)
+4. [高阶函数之美-偏函数](https://github.com/chenqf/frontEndBlog/issues/21)
+5. [深入浅出-JS中的内存管理](https://github.com/chenqf/frontEndBlog/issues/8)
+6. [深入浅出-JS中的栈内存和堆内存](https://github.com/chenqf/frontEndBlog/issues/9)
+7. [面试必考-单页路由解析与实现](https://github.com/chenqf/frontEndBlog/issues/11)
+8. [性能优化-如何处理图片加载失败](https://github.com/chenqf/frontEndBlog/issues/12)
+9. [面试必考-从线程角度来看EventLoop](https://github.com/chenqf/frontEndBlog/issues/14)
+10. [性能优化-如何高性能的渲染十万条数据(时间分片)](https://github.com/chenqf/frontEndBlog/issues/15)
+11. [性能优化-如何高性能的渲染十万条数据(虚拟列表)](https://github.com/chenqf/frontEndBlog/issues/16)
+12. [进阶布局-深度解析瀑布流布局](https://github.com/chenqf/frontEndBlog/issues/17)
+13. [模拟实现call和apply](https://github.com/chenqf/frontEndBlog/issues/20)
+14. [模拟实现bind](https://github.com/chenqf/frontEndBlog/issues/19)
 
 ## ES6系列
 
