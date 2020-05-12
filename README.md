@@ -43,10 +43,6 @@
 1. [深入理解立即执行函数](https://github.com/chenqf/frontEndBlog/issues/3)
 2. [数组乱序](https://github.com/chenqf/frontEndBlog/issues/5)
 
-## 后续文章
-
-+ **[写作计划(暂定)](https://github.com/chenqf/frontEndBlog/blob/master/PLAN.md)**
-
 ## 公众号
 
 想在`微信`上订阅？
