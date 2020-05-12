@@ -30,6 +30,8 @@
 9. [性能优化-如何高性能的渲染十万条数据(时间分片)](https://github.com/chenqf/frontEndBlog/issues/15)
 10. [性能优化-如何高性能的渲染十万条数据(虚拟列表)](https://github.com/chenqf/frontEndBlog/issues/16)
 11. [进阶布局-深度解析瀑布流布局](https://github.com/chenqf/frontEndBlog/issues/17)
+12. [模拟实现call和apply](https://github.com/chenqf/frontEndBlog/issues/20)
+13. [模拟实现bind](https://github.com/chenqf/frontEndBlog/issues/19)
 
 ## ES6系列
 
@@ -42,6 +44,7 @@
 
 1. [深入理解立即执行函数](https://github.com/chenqf/frontEndBlog/issues/3)
 2. [数组乱序](https://github.com/chenqf/frontEndBlog/issues/5)
+3. [彻底弄懂http缓存](https://github.com/chenqf/frontEndBlog/issues/18)
 
 ## 公众号
 
