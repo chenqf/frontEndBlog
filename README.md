@@ -8,6 +8,15 @@
 
 + [掘金主页](https://juejin.im/user/5c6e666be51d457fd033e984/posts)
 
+## 虚拟DOM
+
+1. [虚拟dom之挂载](https://github.com/chenqf/frontEndBlog/issues/22)
+2. [虚拟dom之更新](https://github.com/chenqf/frontEndBlog/issues/23)
+3. [虚拟dom之更新子节点(一)](https://github.com/chenqf/frontEndBlog/issues/24)
+4. [虚拟dom之更新子节点(二)](https://github.com/chenqf/frontEndBlog/issues/25)
+5. [虚拟dom之更新子节点(三)](https://github.com/chenqf/frontEndBlog/issues/26)
+6. [虚拟dom之更新子节点(四)](https://github.com/chenqf/frontEndBlog/issues/27)
+
 ## JS 进阶系列
 
 1. [高阶函数之美-函数柯里化](https://github.com/chenqf/frontEndBlog/issues/10)
